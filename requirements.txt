@@ -3,6 +3,8 @@ pillow==10.4.0
 streamlit==1.38.0
 streamlit-option-menu==0.3.13
 opencv-python-headless
-numpy
-pynput
 mediapipe
+numpy
+streamlit
+pynput
+libgl1-mesa-glx
